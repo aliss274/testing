@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 //программа учебная
+//test
 int main ()
 {
     int a=1;
